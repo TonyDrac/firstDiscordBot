@@ -1,6 +1,6 @@
 const commando = require('discord.js-commando');
 
-const TOKEN = 'Insert your TOKEN here'
+const TOKEN = '//Insert your TOKEN here//'
 
 const client = new commando.Client({      
      
