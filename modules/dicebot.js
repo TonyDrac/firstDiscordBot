@@ -11,7 +11,9 @@ var replies = [
     'Jag visste att du ville ha ',
     'Tärningen är kastad.. ',
     'Åh, mitt lyckonummer ',
-    'Var det den här siffran du ville ha? '
+    'Var det den här siffran du ville ha? ',
+    'Den bästa siffran är:  ',
+    'Den magiska siffran  '
 ]
 
 module.exports = {
